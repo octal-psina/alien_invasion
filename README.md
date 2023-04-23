@@ -1,6 +1,6 @@
 # Another alien invasion!
 
-![image](https://github.com/octal-psina/alien_invasion/assets/images/AI.png)
+![image](https://github.com/octal-psina/alien_invasion/blob/master/images/AI.png)
 
 This is my learning project,the program was created for fun and educational purposes.
 
