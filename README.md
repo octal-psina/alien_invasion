@@ -1,7 +1,6 @@
-# alien_invasion
-
-## This is my learning project.
-This program was created for fun and educational purposes.
+# Another alien invasion!
+/assets/images/electrocat.png
+This is my learning project,the program was created for fun and educational purposes.
 
 ### Information sources: 
 "Eric Matiz - Learning Python (Programmer's Library) - 2020".
@@ -14,6 +13,8 @@ Dance With the Dead - [The Man Who Made a Monster](https://www.youtube.com/watch
 [mariemironovaa](https://www.instagram.com/mariemironovaa/?igshid=YmMyMTA2M2Y%3D)
 
 ### To start use:
-`#ffffff pip install -r requirements.txt` 
+`pip install -r requirements.txt` 
+
 Open the game directory in the termenal and  enter following comand: 
-`#ffffff python3 alien_invasion.py` 
+
+`python3 alien_invasion.py` 
