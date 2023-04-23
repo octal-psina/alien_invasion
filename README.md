@@ -1,5 +1,7 @@
 # Another alien invasion!
-/assets/images/electrocat.png
+
+![image](https://github.com/octal-psina/alien_invasion/tree/master/images/AI.png)
+
 This is my learning project,the program was created for fun and educational purposes.
 
 ### Information sources: 
